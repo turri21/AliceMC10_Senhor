@@ -1,3 +1,8 @@
+-=(AliceMC10_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 Matra-Hachette Alice MC-10 for MiSTer FPGA
 ==========================================
 
